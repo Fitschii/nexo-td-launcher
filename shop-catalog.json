@@ -1,14 +1,6 @@
 {
-  "version": 1,
-  "games": [
-    {
-      "zip": "TowerAscension-Game-Win64.zip",
-      "repo": "Fitschii/tower-ascension-updates",
-      "exe": "TowerAscension3D.exe",
-      "id": "tower-ascension",
-      "folder": "Tower Ascension",
-      "name": "Tower Ascension",
-      "description": "Baue Türme, verteidige deine Strecke und meistere neue Wellen."
-    }
-  ]
+    "version":  1,
+    "games":  [
+
+              ]
 }
